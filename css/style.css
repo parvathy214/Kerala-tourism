@@ -35,6 +35,14 @@
 .media-body{
     color: white;
     text-align: justify;
-    margin-top: 10px;
+    margin-top: 0px;
+    margin-bottom: 200px;
 }
 
+#foot{
+    background-color: rgb(8, 57, 8);
+    padding: 20px;
+    text-align: center;
+    color: white;
+
+}

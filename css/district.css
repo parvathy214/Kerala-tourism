@@ -11,10 +11,7 @@
     }
     .navbar{
         background-color: rgb(8, 57, 8);
-        left: 0; right: 0;
-        z-index: 1000;
     }
-    
 .nav-link{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
      /* border:1px solid white;
@@ -25,17 +22,5 @@
     color:black !important;
     transition: 1s;
     /* display: block; */
-
-}
-body{
-     /* background-color: black; */
-    
-}
-#foot{
-
-    background-color: rgb(8, 57, 8);
-    padding: 20px;
-    text-align: center;
-    color: white;
 
 }
